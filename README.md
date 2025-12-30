@@ -1,4 +1,4 @@
-#### Oi! 👋 sou a Rayane
+#### Oi 👋 Eu sou a Rayane
 
 Estudante de **Bacharelado em Ciência da Computação** na **UFRJ**.  
 Formada em **Automação Industrial** pelo **CEFET/RJ – Campus Nova Iguaçu**.  
